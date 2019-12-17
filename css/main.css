@@ -6869,3 +6869,6 @@ body {
 .row-2,
 .row-3 {
   opacity: 0; }
+
+.active a {
+  border-bottom: #00796b solid 3px; }

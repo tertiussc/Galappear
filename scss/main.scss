@@ -58,3 +58,7 @@ body {
 .row-3 {
     opacity: 0;
 }
+
+.active a {
+    border-bottom: $primary-color solid 3px;
+}
